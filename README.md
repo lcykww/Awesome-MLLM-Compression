@@ -6,7 +6,7 @@ Awesome MLLM Compression
 
 This repository contains a regularly updated paper list for **MLLM Compression**.
 
-[![TechRxiv](https://img.shields.io/badge/TechRxiv-10.36227-b31b1b)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177220375.55495124/v1)
+[![TechRxiv](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177220375.55495124/v1)
 [![Awesome](https://img.shields.io/badge/Awesome-List-8A2BE2)](https://github.com/sindresorhus/awesome)
 [![License](https://img.shields.io/badge/License-MIT-007ec6)](https://opensource.org/license/MIT)
 [![Contributions](https://img.shields.io/badge/Contributions-Welcome-2ea44f)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/pulls)
@@ -16,12 +16,12 @@ This repository contains a regularly updated paper list for **MLLM Compression**
 
 > <strong> From Data to Model: A Survey of the Compression Lifecycle in MLLMs </strong>
 >
-> <a href="https://scholar.google.com/citations?hl=zh-CN&user=Ix9RD18AAAAJ" rel="nofollow">Hao Wu</a><sup>\*,1</sup>, 
-<a href="https://scholar.google.com/citations?user=Amv2QE8AAAAJ&hl=zh-CN" rel="nofollow">Junlong Tong</a><sup>\*,1,2</sup>, 
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=WP9E-ogAAAAJ" rel="nofollow">Xudong Wang</a><sup>1</sup>,
+> <a href="https://scholar.google.com/citations?user=Ix9RD18AAAAJ" rel="nofollow">Hao Wu</a><sup>\*,1</sup>, 
+<a href="https://scholar.google.com/citations?user=Amv2QE8AAAAJ" rel="nofollow">Junlong Tong</a><sup>\*,1,2</sup>, 
+<a href="https://scholar.google.com/citations?user=WP9E-ogAAAAJ" rel="nofollow">Xudong Wang</a><sup>1</sup>,
 Yang Tan</a><sup>3</sup>, 
-<a href="https://scholar.google.com/citations?user=56aEgJ0AAAAJ&hl=zh-CN&oi=ao" rel="nofollow">Changyu Zeng</a><sup>1</sup>, 
-<a href="https://scholar.google.com/citations?user=lJ-GGU8AAAAJ&hl=zh-CN&oi=ao" rel="nofollow">Anastasia Antsiferova</a><sup>1</sup>, 
+<a href="https://scholar.google.com/citations?user=56aEgJ0AAAAJ" rel="nofollow">Changyu Zeng</a><sup>1</sup>, 
+<a href="https://scholar.google.com/citations?user=lJ-GGU8AAAAJ" rel="nofollow">Anastasia Antsiferova</a><sup>1</sup>, 
 <a href="https://chin-gyou.github.io/" rel="nofollow">Xiaoyu Shen</a><sup>†,1</sup> 
 >
 > <sup>1</sup>Institute of Digital Twin, Eastern Institute of Technology, Ningbo
@@ -104,24 +104,24 @@ If you find our paper of this resource helpful, please consider cite:
 🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. On this main page, only related surveys and papers released in the past six months are shown.
 
 - [Awesome MLLM Compression](#awesome)
-  - [Image LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/image-llm.md)
-  - [Video LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/video-llm.md)
-  - [Audio LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-llm.md)
-  - [3D LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
-  - [Omni LLM](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
-  - [Vision Encoder](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-encoder.md)
-  - [Audio Encoder](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-encoder.md)
-  - [3D Encoder](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
+  - [Image LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/image-llm.md)
+  - [Video LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/video-llm.md)
+  - [Audio LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-llm.md)
+  - [3D LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
+  - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
+  - [Vision Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-encoder.md)
+  - [Audio Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-encoder.md)
+  - [3D Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
 
 ### Survey
-| Title & Authors & Links | Date | Taxonomy | Highlight (Keywords) |
+| Title & Authors & Links | Date | Taxonomy | Highlight |
 |---|---|---|---|
-| [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--MLLM--Compression-white?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression) <br> **From Data to Model: A Survey of the Compression Lifecycle in MLLMs** <br> Hao Wu, Junlong Tong, Xudong Wang, Yang Tan, Changyu Zeng, Anastasia Antsiferova, Xiaoyu Shen| 2026.2.27| Compression position & <br> Compression operation & <br> Mechanisim| Compression Lifecycle |
-| [![Preprint](https://img.shields.io/badge/arXiv-2601.20742-b31b1b)](https://arxiv.org/abs/2601.20742)<br>**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification** <br> Xin Jin, Jinming Liu, Yuntao Wei, Junyan Lin, Zhicheng Wang, Jianguo Huang, Xudong Yang, Yanxiao Liu, Wenjun Zeng| 2026.01.28 | TODO | TODO |
-| [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-MLLM--Token--Compression-white?logo=github)](https://github.com/yaolinli/MLLM-Token-Compression) **Towards Efficient Multimodal Large Language Models: A Survey on Token Compression** <br> Linli Yao, Long Xing, Yang Shi, Sida Li, Yuanxin Liu, Yuhao Dong, Yi-Fan Zhang, Lei Li, Qingxiu Dong, Xiaoyi Dong, Qidong Huang, Haotian Wang, Feng Wu, Yuanxing Zhang, Pengfei Wan, Zhouchen Lin, Xu Sun| 2026.01.12 | Compression Position & <br> Mechanisim | TODO |
-| ![PDF](https://img.shields.io/badge/ISCAS-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2508.13460-b31b1b)](https://arxiv.org/abs/2508.13460)<br>**Revisiting MLLM Token Technology through the Lens of Classical Visual Coding** <br> Jinming Liu, Junyan Lin, Yuntao Wei, Kele Shao, Keda Tao, Jianguo Huang, Xudong Yang, Zhibo Chen, Huan Wang, Xin Jin| 2025.08.19| TODO | TODO |
-| ![PDF](https://img.shields.io/badge/TMLR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2507.20198-b31b1b)](https://arxiv.org/abs/2507.20198v5) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Multimodal--Token--Compression-white?logo=github)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)  <br >**A Survey of Token Compression for Efficient Multimodal Large Language Models** <br> Kele Shao, Keda Tao, Kejia Zhang, Sicheng Feng, Mu Cai, Yuzhang Shang, Haoxuan You, Can Qin, Yang Sui, Huan Wang | 2025.07.27 | Modality & <br> Mechanisim | Modality-centric|
-| [![Preprint](https://img.shields.io/badge/arXiv-2505.18227-b31b1b)](https://arxiv.org/abs/2505.18227) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Collection--Token--Reduction-white?logo=github)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction) <br> **Token Reduction Should Go Beyond Efficiency in Generative Models <br>-- From Vision, Language to Multimodality** <br> Zhenglun Kong, Yize Li, Fanhu Zeng, Lei Xin, Shvat Messica, Xue Lin, Pu Zhao, Manolis Kellis, Hao Tang, Marinka Zitnik| 2025.05.23 | TODO | TODO |
+| [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--MLLM--Compression-white?logo=github)](https://github.com/EIT-NLP/Awesome-MLLM-Compression) <br> **From Data to Model: A Survey of the Compression Lifecycle in MLLMs** <br> Hao Wu, Junlong Tong, Xudong Wang, Yang Tan, Changyu Zeng, Anastasia Antsiferova, Xiaoyu Shen| 26.2.27| Compression position & <br> Compression operation & <br> Mechanisim| Compression Lifecycle |
+| [![Preprint](https://img.shields.io/badge/arXiv-2601.20742-b31b1b)](https://arxiv.org/abs/2601.20742)<br>**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification** <br> Xin Jin, Jinming Liu, Yuntao Wei, Junyan Lin, Zhicheng Wang, Jianguo Huang, Xudong Yang, Yanxiao Liu, Wenjun Zeng| 26.01.28 | TODO | TODO |
+| [![Preprint](https://img.shields.io/badge/TechRxiv-DOI-b31b1b)](https://www.techrxiv.org/users/1031130/articles/1390890-from-data-to-model-a-survey-of-the-compression-lifecycle-in-mllms) [![GitHub](https://img.shields.io/badge/GitHub-MLLM--Token--Compression-white?logo=github)](https://github.com/yaolinli/MLLM-Token-Compression) **Towards Efficient Multimodal Large Language Models: A Survey on Token Compression** <br> Linli Yao, Long Xing, Yang Shi, Sida Li, Yuanxin Liu, Yuhao Dong, Yi-Fan Zhang, Lei Li, Qingxiu Dong, Xiaoyi Dong, Qidong Huang, Haotian Wang, Feng Wu, Yuanxing Zhang, Pengfei Wan, Zhouchen Lin, Xu Sun| 26.01.12 | Compression Position & <br> Mechanisim | TODO |
+| ![PDF](https://img.shields.io/badge/ISCAS-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2508.13460-b31b1b)](https://arxiv.org/abs/2508.13460)<br>**Revisiting MLLM Token Technology through the Lens of Classical Visual Coding** <br> Jinming Liu, Junyan Lin, Yuntao Wei, Kele Shao, Keda Tao, Jianguo Huang, Xudong Yang, Zhibo Chen, Huan Wang, Xin Jin| 25.08.19| TODO | TODO |
+| ![PDF](https://img.shields.io/badge/TMLR-2026-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2507.20198-b31b1b)](https://arxiv.org/abs/2507.20198v5) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Multimodal--Token--Compression-white?logo=github)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)  <br >**A Survey of Token Compression for Efficient Multimodal Large Language Models** <br> Kele Shao, Keda Tao, Kejia Zhang, Sicheng Feng, Mu Cai, Yuzhang Shang, Haoxuan You, Can Qin, Yang Sui, Huan Wang | 25.07.27 | Modality & <br> Mechanisim | Modality-centric|
+| [![Preprint](https://img.shields.io/badge/arXiv-2505.18227-b31b1b)](https://arxiv.org/abs/2505.18227) [![GitHub](https://img.shields.io/badge/GitHub-Awesome--Collection--Token--Reduction-white?logo=github)](https://github.com/ZLKong/Awesome-Collection-Token-Reduction) <br> **Token Reduction Should Go Beyond Efficiency in Generative Models <br>-- From Vision, Language to Multimodality** <br> Zhenglun Kong, Yize Li, Fanhu Zeng, Lei Xin, Shvat Messica, Xue Lin, Pu Zhao, Manolis Kellis, Hao Tang, Marinka Zitnik| 25.05.23 | TODO | TODO |
 
 
 
