@@ -110,8 +110,11 @@ If you find our paper of this resource helpful, please consider cite:
   - [3D LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
   - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
   - [Vision Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-encoder.md)
+  - [Vision Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-decoder.md)
   - [Audio Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-encoder.md)
+  - [Audio Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-decoder.md)
   - [3D Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
+  - [3D Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-decoder.md)
 
 ### Survey
 | Title & Authors & Links | Date | Taxonomy | Highlight |
@@ -285,8 +288,8 @@ If you find our paper of this resource helpful, please consider cite:
 
 | Title & Authors & Links | Areas | Tags |
 |---|---|---|
-| ![PDF](https://img.shields.io/badge/NAACL-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2503.04982-b31b1b)](https://arxiv.org/abs/2503.04982) <br> **LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression** <br> Souvik Kundu, Anahita Bhiwandiwalla, Sungduk Yu, Phillip Howard, Tiep Le, Sharath Nittur Sridhar, David Cobbley, Hao Kang, Vasudev Lal | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Target](https://img.shields.io/badge/Target-Weight-0d9488) ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
-| ![PDF](https://img.shields.io/badge/NAACL-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2502.17599-b31b1b)](https://arxiv.org/abs/2502.17599) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/AIoT-MLSys-Lab/MEDA) <br> **MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference** <br> Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-TrainingFree-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Op](https://img.shields.io/badge/Op-Merge-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
+| ![PDF](https://img.shields.io/badge/NAACL--Findings-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2503.04982-b31b1b)](https://arxiv.org/abs/2503.04982) <br> **LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression** <br> Souvik Kundu, Anahita Bhiwandiwalla, Sungduk Yu, Phillip Howard, Tiep Le, Sharath Nittur Sridhar, David Cobbley, Hao Kang, Vasudev Lal | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Target](https://img.shields.io/badge/Target-Weight-0d9488) ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
+| ![PDF](https://img.shields.io/badge/NAACL-2025-1f6feb) [![Preprint](https://img.shields.io/badge/arXiv-2502.17599-b31b1b)](https://arxiv.org/abs/2502.17599) [![GitHub](https://img.shields.io/badge/GitHub-Code-white?logo=github)](https://github.com/AIoT-MLSys-Lab/MEDA) <br> **MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference** <br> Zhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang | ![Area](https://img.shields.io/badge/Area-Image--LLM-6f42c1) | ![Cost](https://img.shields.io/badge/Cost-TrainingFree-8b5e3c) ![Level](https://img.shields.io/badge/Level-LLM-f59e0b) <br> ![Op](https://img.shields.io/badge/Op-Drop-2f9e44) ![Mech](https://img.shields.io/badge/Mech-Attn--based-c2416c) <br> ![Op](https://img.shields.io/badge/Op-Agg-2f9e44) ![Mech](https://img.shields.io/badge/Mech-D--Merge-c2416c) <br> ![Target](https://img.shields.io/badge/Target-KV--Cache-0d9488)| 
 
 
 </details>
